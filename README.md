@@ -38,6 +38,7 @@ How to Predict Your Own Digit
 Future Improvements
 - Build a web application for real-time digit drawing.
 - Extend the model to recognize handwritten letters (using EMNIST dataset).
+- Initially there might be some accuracy issue but will be resolved soon.
 
 
 
